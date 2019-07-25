@@ -61,7 +61,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-
+<h2 id="reginfo"><a href="https://training.uark.edu/it-readiness/">Registration Information</a></h2>
 <h2 id="general">General Information</h2>
 
 {% comment %}
